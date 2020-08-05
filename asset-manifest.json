@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/stop-watch-with-react/static/css/main.c572ead5.chunk.css",
+    "main.js": "/stop-watch-with-react/static/js/main.ee3703df.chunk.js",
+    "main.js.map": "/stop-watch-with-react/static/js/main.ee3703df.chunk.js.map",
+    "runtime-main.js": "/stop-watch-with-react/static/js/runtime-main.15d00a11.js",
+    "runtime-main.js.map": "/stop-watch-with-react/static/js/runtime-main.15d00a11.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/stop-watch-with-react/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.cf65e2dd.chunk.js": "/stop-watch-with-react/static/js/2.cf65e2dd.chunk.js",
+    "static/js/2.cf65e2dd.chunk.js.map": "/stop-watch-with-react/static/js/2.cf65e2dd.chunk.js.map",
+    "index.html": "/stop-watch-with-react/index.html",
+    "precache-manifest.4be2eac0b8875229207a83d939324bee.js": "/stop-watch-with-react/precache-manifest.4be2eac0b8875229207a83d939324bee.js",
+    "service-worker.js": "/stop-watch-with-react/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/stop-watch-with-react/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.c572ead5.chunk.css.map": "/stop-watch-with-react/static/css/main.c572ead5.chunk.css.map",
+    "static/js/2.cf65e2dd.chunk.js.LICENSE.txt": "/stop-watch-with-react/static/js/2.cf65e2dd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15d00a11.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.cf65e2dd.chunk.js",
+    "static/css/main.c572ead5.chunk.css",
+    "static/js/main.ee3703df.chunk.js"
+  ]
+}
